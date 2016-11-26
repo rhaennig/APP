@@ -1,0 +1,24 @@
+
+h2,p,footer{
+	text-align: center;
+}
+footer {
+
+	position: absolute;
+	bottom: 10px;
+	margin-bottom: 10px; 
+	margin-right: 5%; 
+	margin-left: 5%; 
+	height: 5%; 
+	width: 90%; 
+
+}
+
+footer a{margin: auto;margin-right: 40px; margin-left: 40px; color:white;}
+
+#connexion{
+	display : table;
+	margin : 0 auto;
+	background-color: rgb(4,142,217);
+}
+#connexion p{text-align: right;}
